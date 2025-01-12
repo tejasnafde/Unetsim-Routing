@@ -1,0 +1,4 @@
+1727192212486|INFO|org.arl.unet.UnetBoot@1:doInvoke|fjage Build: fjage-1.9.1/37c49259/5-09-2021_13:26:12
+1727192212526|INFO|org.arl.unet.UnetBoot@1:doInvoke|UnetBoot: [-c, audio]
+1727192212586|INFO|org.arl.fjage.remote.EnumTypeAdapter@1:<clinit>|Groovy detected, using GroovyClassLoader
+1727192212606|INFO|org.arl.fjage.remote.MessageAdapterFactory@1:<clinit>|Groovy detected, using GroovyClassLoader
